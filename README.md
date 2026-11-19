@@ -28,9 +28,8 @@ Repositori ini dibuat untuk memenuhi tugas latihan/eksplorasi materi Graphical U
    * `java.awt.event.MouseAdapter`: Meng-override method `mouseEntered` dan `mouseExited` untuk memberikan efek perubahan warna saat kursor diarahkan ke tombol.
 
 ## Screenshot Hasil Program
-
 ### 1. Tampilan Awal
-Screenshot/TampilanAwal.png
+![Tampilan Awal](Screenshot/TampilanAwal.png)
 
 ### 2. Tampilan Setelah Input Data
-Screenshot/TampilkanData.png
+![Tampilan Data](Screenshot/TampilkanData.png)
