@@ -1,9 +1,5 @@
 # Tugas-GUI-F1D02410136
 
-# Eksplorasi GUI pada Java (Swing & AWT)
-
-Repositori ini dibuat untuk memenuhi tugas latihan/eksplorasi materi Graphical User Interface (GUI) menggunakan bahasa pemrograman Java.
-
 ## 5 Komponen Utama GUI yang Digunakan
 1. **Top-level Container Class**
    * `javax.swing.JFrame`: Digunakan sebagai jendela utama aplikasi tempat seluruh panel dan komponen diletakkan.
